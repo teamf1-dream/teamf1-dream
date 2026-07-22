@@ -1,14 +1,10 @@
 <div align="center">
 
-# Ullas Vishwanath
+# Rahul Kumar
 
-### Data Analyst | Revenue & Growth Analytics
+### Sales Operations Manager · Career Advisor · Tech Enthusiast
 
-*Turning complex data into decisions that move the needle — across marketing, product, and commercial teams.*
-
-[![Location](https://img.shields.io/badge/📍-Berlin,_Germany-0d1117?style=flat-square)](https://www.google.com/maps/place/Berlin)
-[![Email](https://img.shields.io/badge/Email-ullasvishwanathda%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ullasvishwanathda@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ullasvishwanath)
+📍 Ahmedabad, Gujarat, India &nbsp;|&nbsp; 📧 [connect2rahulj@gmail.com](mailto:connect2rahulj@gmail.com)
 
 </div>
 
@@ -16,202 +12,118 @@
 
 ## 👤 About Me
 
-Results-driven Data Analyst with **5+ years of experience** using SQL, Python, Power BI, and Tableau to deliver actionable insights that support executive decision-making and drive measurable business growth. I specialize in data modeling, stakeholder communication, and cross-functional collaboration across marketing, product, and commercial teams.
+I'm a results-driven professional with **more than 10 years of experience** spanning sales operations, career advisory, business development, and technical instruction. I've had the privilege of working across a diverse range of industries — from EdTech and financial services to IT staffing and recruitment — and the thread that connects every chapter of my career is simple: **I love my work.**
 
-I've worked across **financial services, fintech, and technology environments** in international settings — translating messy, complex data into clear narratives that leadership can act on. Whether it's building automated dashboards, designing KPI frameworks, or running cohort and attribution analyses, I focus on delivering work that creates real commercial impact.
-
-Currently based in Berlin, fluent in English and professionally proficient in German.
+Currently, I lead and manage overall sales operations strategy with a focus on improving efficiency, scalability, and revenue growth. I thrive at the intersection of process design and cross-functional collaboration — building systems that help teams sell smarter, forecast accurately, and execute with clarity.
 
 ---
 
-## 🏆 Career Highlights
+## 🛠️ Tech & Skills
 
-| Metric | Result |
-|---|---|
-| 📈 ROAS Growth | **+30%** through structured campaign optimization |
-| 💰 CPA Reduction | **-25%** via A/B testing & funnel optimization |
-| 🚀 Revenue Growth | **40%+** driven by data-led campaign strategy |
-| 🎯 Conversion Rate | **+12%** through customer segmentation |
-| 🤝 Client Retention | **95%** via CRM analytics & lifecycle optimization |
-
----
-
-## 🛠️ Tech Stack
-
-**Data & Analytics**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python_(pandas)-3776AB?style=flat-square&logo=python&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Marketing & Growth**
-
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0081FB?style=flat-square&logo=meta&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
-
-**CRM & Platforms**
-
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-
-**Core Methods**
-
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-6C3483?style=flat-square)
-![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-1ABC9C?style=flat-square)
-![Attribution Modeling](https://img.shields.io/badge/Attribution_Modeling-E74C3C?style=flat-square)
-![A/B Testing](https://img.shields.io/badge/A/B_Testing-F39C12?style=flat-square)
-![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-2ECC71?style=flat-square)
-![Revenue Forecasting](https://img.shields.io/badge/Revenue_Forecasting-3498DB?style=flat-square)
-![KPI Framework Design](https://img.shields.io/badge/KPI_Framework_Design-8E44AD?style=flat-square)
-![Dashboard Automation](https://img.shields.io/badge/Dashboard_Automation-16A085?style=flat-square)
+![Sales Operations](https://img.shields.io/badge/Sales%20Operations-Strategy-0A66C2?style=for-the-badge)
+![Pipeline Management](https://img.shields.io/badge/Pipeline-Management-0078D4?style=for-the-badge)
+![Sales Forecasting](https://img.shields.io/badge/Sales-Forecasting-00897B?style=for-the-badge)
+![Process Optimization](https://img.shields.io/badge/Process-Optimization-F57C00?style=for-the-badge)
+![Cross-functional Collaboration](https://img.shields.io/badge/Cross--Functional-Collaboration-7B1FA2?style=for-the-badge)
+![Interpersonal Communication](https://img.shields.io/badge/Interpersonal-Communication-C62828?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 💻 Terminal Stats
 
 ```bash
-$ analyst --profile ullas_vishwanath
+rahul@career-profile:~$ whoami
+  Name        : Rahul Kumar
+  Role        : Sales Operations Manager
+  Location    : Ahmedabad, Gujarat, India
+  Experience  : 10+ years across multiple industries
 
-┌─────────────────────────────────────────────────────┐
-│              ANALYST PROFILE v2025                  │
-├─────────────────────────────────────────────────────┤
-│  Name        : Ullas Vishwanath                     │
-│  Role        : Data Analyst | Revenue & Growth      │
-│  Experience  : 5+ Years                             │
-│  Location    : Berlin, Germany 🇩🇪                  │
-├─────────────────────────────────────────────────────┤
-│  PERFORMANCE RECORD                                 │
-│  ├── ROAS Improvement      : +30%                   │
-│  ├── CPA Reduction         : -25%                   │
-│  ├── Revenue Growth        : +40%                   │
-│  ├── Conversion Rate Lift  : +12%                   │
-│  └── Client Retention      : 95%                    │
-├─────────────────────────────────────────────────────┤
-│  STACK                                              │
-│  ├── Languages   : SQL, Python (pandas)             │
-│  ├── BI Tools    : Power BI, Tableau, GA4           │
-│  ├── Cloud       : BigQuery                         │
-│  └── CRM         : HubSpot, Salesforce              │
-├─────────────────────────────────────────────────────┤
-│  Languages   : English (Native) | German (B2+)      │
-│  Status      : Open to Opportunities ✅             │
-└─────────────────────────────────────────────────────┘
+rahul@career-profile:~$ cat career_timeline.log
+  [2026 – Present]  Sales Operations Manager   @ F1 Dream Job
+  [2025 – 2026]     Sales Operations Manager   @ Amoha Recruitment Services LLC
+  [2023 – 2025]     Team Lead                  @ Helix Tech-IT Solutions
+  [2022 – 2023]     Sr. Career Advisor         @ Dash Technologies Inc.
+  [2020 – 2022]     Academic Counselor         @ BYJU'S
+  [2018 – 2020]     Sr. Business Dev Associate @ American Express
+  [2014 – 2018]     Computer Instructor        @ Microsoft
+
+rahul@career-profile:~$ cat core_strengths.txt
+  ✔ Sales Strategy & Operations Leadership
+  ✔ Workflow & Process Design
+  ✔ Sales Forecasting & Pipeline Frameworks
+  ✔ Cross-functional Team Alignment
+  ✔ Performance Tracking & Reporting
+
+rahul@career-profile:~$ echo $STATUS
+  Open to opportunities | Always learning | Loving the work
 ```
-
----
-
-## 💼 Experience
-
-**Data & Marketing Analyst** · Principal Financial Group
-`Jun 2025 – Present`
-- Built interactive Power BI dashboards using SQL and Python to monitor CAC, LTV, retention, revenue, and marketing KPIs, improving executive visibility into business performance.
-- Automated recurring reporting processes, reducing manual reporting effort by approximately 40%.
-- Conducted cohort analysis and customer segmentation to identify high-value customer groups and support targeted retention strategies.
-- Collaborated cross-functionally with Product, Marketing, and Business stakeholders to improve reporting accuracy and align outputs to strategic priorities.
-
----
-
-**Digital Marketing & Analytics Specialist** · SAIMOH Technologies Pvt. Ltd.
-`Oct 2023 – Mar 2024`
-- Increased ROAS by 30% through structured campaign optimization, audience segmentation, and iterative performance analysis.
-- Reduced Customer Acquisition Cost by 25% via A/B testing methodologies and systematic funnel optimization.
-- Developed GA4 dashboards to monitor campaign performance in real time, enabling faster data-driven budget reallocation.
-- Performed multi-channel marketing attribution analysis to improve budget allocation efficiency and inform growth strategy.
-
----
-
-**Marketing Data Analyst** · Boost FinCorp Group
-`Jan 2021 – Aug 2023`
-- Contributed to a 40% increase in business revenue through data-driven campaign analysis, customer segmentation, and performance optimization.
-- Designed and maintained SQL, Power BI, and Tableau dashboards for executive reporting.
-- Improved campaign conversion rates by 12% by applying customer segmentation techniques to identify high-propensity audience groups.
-- Built automated dashboards that reduced ad hoc reporting turnaround time and enabled consistent commercial insights across teams.
-
----
-
-**Account Manager – CRM & Growth** · InstaSquares
-`Jul 2017 – Dec 2019`
-- Achieved 95% client retention rate by leveraging CRM analytics and customer lifecycle optimization to identify at-risk accounts.
-- Increased lead conversion by 35% through pipeline analytics, identifying bottlenecks in the sales funnel.
-- Supported cross-functional collaboration between sales and operations to improve revenue reporting accuracy and forecasting visibility.
 
 ---
 
 ## 🎓 Education
 
-🎓 **Master of Science in International Management**
-IU International University of Applied Sciences, Berlin, Germany · `2023 – 2025`
-
-🎓 **Bachelor of Business Administration**
-Bangalore University, Bangalore, India · `2020 – 2023`
+**Bachelor of Technology (BTech) — Electrical and Electronics Engineering**
+🏛️ RTU &nbsp;|&nbsp; 🗓️ Graduated September 2012
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [retail-sales-sql-analysis](https://github.com/ullasvishwanath/retail-sales-sql-analysis)
-
-A portfolio SQL project analyzing retail sales data with **15+ queries** covering aggregations, joins, window functions, and CTEs — plus an Excel summary dashboard.
-
-**Stack:** SQL · Excel
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 [Job-Radar-](https://github.com/ullasvishwanath/Job-Radar-)
-
-A platform helping IT job seekers land jobs faster by consolidating job applications into a single, streamlined interface.
-
-**Stack:** TypeScript
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [gitboost-ai](https://github.com/ullasvishwanath/gitboost-ai)
-
-A TypeScript-based AI project — explore the repo to see the latest features and functionality.
-
-**Stack:** TypeScript
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ [ginnys-kitchen-website](https://github.com/ullasvishwanath/ginnys-kitchen-website)
-
-A Python-built website project — check the repository for implementation details.
-
-**Stack:** Python
-
-</td>
-</tr>
-</table>
+> *Projects sourced from my GitHub repositories.*
 
 ---
 
-## 📬 Let's Connect
+### 🔍 [Job-Radar-](https://github.com/rahulkumar/Job-Radar-)
+**TypeScript**
+
+> Helping IT job seekers land a job faster by applying to jobs on a single, unified platform. Streamlines the job search experience so candidates can focus on the right opportunities without the noise.
+
+---
+
+### 📊 [retail-sales-sql-analysis](https://github.com/rahulkumar/retail-sales-sql-analysis)
+**SQL**
+
+> A portfolio SQL project analyzing retail sales data with **15+ queries** covering aggregations, joins, window functions, and CTEs — complete with an Excel summary dashboard. A deep dive into real-world data analysis techniques.
+
+---
+
+### ⚡ [gitboost-ai](https://github.com/rahulkumar/gitboost-ai)
+**TypeScript**
+
+> An AI-powered tool built in TypeScript. Explore the repo to see what's in progress.
+
+---
+
+### 🍽️ [Food-inn-Restaurant](https://github.com/rahulkumar/Food-inn-Restaurant)
+
+> A restaurant-themed web project. Check out the repo for details.
+
+---
+
+### 🍳 [ginnys-kitchen-website](https://github.com/rahulkumar/ginnys-kitchen-website)
+**Python**
+
+> A kitchen and recipe website built with Python. Visit the repo to explore.
+
+---
+
+## 📬 Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ullasvishwanathda%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ullasvishwanathda@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ullasvishwanath)
-[![Location](https://img.shields.io/badge/Based_in-Berlin,_Germany-0d1117?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Berlin)
+📧 [connect2rahulj@gmail.com](mailto:connect2rahulj@gmail.com) &nbsp;|&nbsp; 📍 Ahmedabad, Gujarat, India
 
-*Open to Data Analyst roles in revenue analytics, growth, marketing intelligence, and business intelligence.*
+*Feel free to reach out — whether it's about collaboration, opportunities, or just a great conversation.*
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Built with 📊 data, ☕ coffee, and a commitment to turning numbers into decisions.</sub>
+
+*"The most important thing is to love your work."*
+
 </div>
