@@ -4,10 +4,10 @@
 
 ### Data Analyst | Revenue & Growth Analytics
 
-*Turning complex data into executive decisions — across marketing, product, and commercial teams*
+*Turning complex data into decisions that move the needle — across marketing, product, and commercial teams.*
 
-[![Location](https://img.shields.io/badge/📍_Berlin,_Germany-0A66C2?style=flat-square)](https://www.google.com/maps/place/Berlin)
-[![Email](https://img.shields.io/badge/Email-ullasvishwanathda@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ullasvishwanathda@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Berlin,_Germany-0d1117?style=flat-square)](https://www.google.com/maps/place/Berlin)
+[![Email](https://img.shields.io/badge/Email-ullasvishwanathda%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ullasvishwanathda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ullasvishwanath)
 
 </div>
@@ -16,17 +16,23 @@
 
 ## 👤 About Me
 
-Results-driven Data Analyst with **5+ years of experience** using SQL, Python, Power BI, and Tableau to deliver actionable insights that support executive decision-making and drive measurable business growth. I specialise in data modeling, stakeholder communication, and cross-functional collaboration across marketing, product, and commercial teams.
+Results-driven Data Analyst with **5+ years of experience** using SQL, Python, Power BI, and Tableau to deliver actionable insights that support executive decision-making and drive measurable business growth. I specialize in data modeling, stakeholder communication, and cross-functional collaboration across marketing, product, and commercial teams.
 
-I've worked across **financial services, fintech, and technology environments** in international settings — translating raw data into strategies that have:
+I've worked across **financial services, fintech, and technology environments** in international settings — translating messy, complex data into clear narratives that leadership can act on. Whether it's building automated dashboards, designing KPI frameworks, or running cohort and attribution analyses, I focus on delivering work that creates real commercial impact.
 
-- 📈 Increased **ROAS by 30%**
-- 💰 Reduced **CPA by 25%**
-- 🚀 Driven **40%+ revenue growth**
-- 🎯 Improved **conversion rates by 12%**
-- 🤝 Achieved **95% client retention**
+Currently based in Berlin, fluent in English and professionally proficient in German.
 
-Currently based in **Berlin, Germany**, I work in English (Native/Bilingual) and German (Professional Working Proficiency), and thrive in collaborative, international team environments.
+---
+
+## 🏆 Career Highlights
+
+| Metric | Result |
+|---|---|
+| 📈 ROAS Growth | **+30%** through structured campaign optimization |
+| 💰 CPA Reduction | **-25%** via A/B testing & funnel optimization |
+| 🚀 Revenue Growth | **40%+** driven by data-led campaign strategy |
+| 🎯 Conversion Rate | **+12%** through customer segmentation |
+| 🤝 Client Retention | **95%** via CRM analytics & lifecycle optimization |
 
 ---
 
@@ -41,133 +47,171 @@ Currently based in **Berlin, Germany**, I work in English (Native/Bilingual) and
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-**Data Engineering & Modeling**
+**Marketing & Growth**
 
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-6C63FF?style=flat-square)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-00BFA5?style=flat-square)
-![Dashboard Automation](https://img.shields.io/badge/Dashboard_Automation-FF6F00?style=flat-square)
-![KPI Framework Design](https://img.shields.io/badge/KPI_Framework_Design-E53935?style=flat-square)
-
-**Marketing & Growth Analytics**
-
-![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0081FB?style=flat-square&logo=meta&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-43A047?style=flat-square)
-![Attribution Modeling](https://img.shields.io/badge/Attribution_Modeling-8E24AA?style=flat-square)
-![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-00ACC1?style=flat-square)
-![Funnel Optimization](https://img.shields.io/badge/Funnel_Optimization-F4511E?style=flat-square)
-![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-039BE5?style=flat-square)
-![Retention Analysis](https://img.shields.io/badge/Retention_Analysis-7CB342?style=flat-square)
-![Revenue Forecasting](https://img.shields.io/badge/Revenue_Forecasting-FB8C00?style=flat-square)
-![Budget Allocation](https://img.shields.io/badge/Budget_Allocation-6D4C41?style=flat-square)
-![Conversion Tracking](https://img.shields.io/badge/Conversion_Tracking-D81B60?style=flat-square)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 
-**CRM & Commercial Tools**
+**CRM & Platforms**
 
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Pipeline Analytics](https://img.shields.io/badge/Pipeline_Analytics-546E7A?style=flat-square)
+
+**Core Methods**
+
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-6C3483?style=flat-square)
+![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-1ABC9C?style=flat-square)
+![Attribution Modeling](https://img.shields.io/badge/Attribution_Modeling-E74C3C?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-F39C12?style=flat-square)
+![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-2ECC71?style=flat-square)
+![Revenue Forecasting](https://img.shields.io/badge/Revenue_Forecasting-3498DB?style=flat-square)
+![KPI Framework Design](https://img.shields.io/badge/KPI_Framework_Design-8E44AD?style=flat-square)
+![Dashboard Automation](https://img.shields.io/badge/Dashboard_Automation-16A085?style=flat-square)
 
 ---
 
 ## 💻 Terminal Stats
 
 ```bash
-$ analyst --profile ullasvishwanath
+$ analyst --profile ullas_vishwanath
 
 ┌─────────────────────────────────────────────────────┐
-│              ANALYST PROFILE: Ullas Vishwanath       │
+│              ANALYST PROFILE v2025                  │
 ├─────────────────────────────────────────────────────┤
-│  Experience       : 5+ years                        │
-│  Current Role     : Data & Marketing Analyst        │
-│  Current Company  : Principal Financial Group       │
-│  Location         : Berlin, Germany                 │
+│  Name        : Ullas Vishwanath                     │
+│  Role        : Data Analyst | Revenue & Growth      │
+│  Experience  : 5+ Years                             │
+│  Location    : Berlin, Germany 🇩🇪                  │
 ├─────────────────────────────────────────────────────┤
-│  KEY PERFORMANCE METRICS                            │
-│  ► ROAS Improvement        : +30%                   │
-│  ► CPA Reduction           : -25%                   │
-│  ► Revenue Growth Driven   : +40%                   │
-│  ► Conversion Rate Lift    : +12%                   │
-│  ► Client Retention Rate   : 95%                    │
-│  ► Reporting Effort Saved  : ~40% (automation)      │
-│  ► Lead Conversion Lift    : +35%                   │
+│  PERFORMANCE RECORD                                 │
+│  ├── ROAS Improvement      : +30%                   │
+│  ├── CPA Reduction         : -25%                   │
+│  ├── Revenue Growth        : +40%                   │
+│  ├── Conversion Rate Lift  : +12%                   │
+│  └── Client Retention      : 95%                    │
 ├─────────────────────────────────────────────────────┤
-│  DOMAINS          : Fintech | Financial Services    │
-│                     | Technology                    │
-│  LANGUAGES        : English (Native/Bilingual)      │
-│                     German (Professional Working)   │
-│  INDUSTRIES SERVED: Marketing | Product | Commerce  │
+│  STACK                                              │
+│  ├── Languages   : SQL, Python (pandas)             │
+│  ├── BI Tools    : Power BI, Tableau, GA4           │
+│  ├── Cloud       : BigQuery                         │
+│  └── CRM         : HubSpot, Salesforce              │
+├─────────────────────────────────────────────────────┤
+│  Languages   : English (Native) | German (B2+)      │
+│  Status      : Open to Opportunities ✅             │
 └─────────────────────────────────────────────────────┘
-
-$ █
 ```
+
+---
+
+## 💼 Experience
+
+**Data & Marketing Analyst** · Principal Financial Group
+`Jun 2025 – Present`
+- Built interactive Power BI dashboards using SQL and Python to monitor CAC, LTV, retention, revenue, and marketing KPIs, improving executive visibility into business performance.
+- Automated recurring reporting processes, reducing manual reporting effort by approximately 40%.
+- Conducted cohort analysis and customer segmentation to identify high-value customer groups and support targeted retention strategies.
+- Collaborated cross-functionally with Product, Marketing, and Business stakeholders to improve reporting accuracy and align outputs to strategic priorities.
+
+---
+
+**Digital Marketing & Analytics Specialist** · SAIMOH Technologies Pvt. Ltd.
+`Oct 2023 – Mar 2024`
+- Increased ROAS by 30% through structured campaign optimization, audience segmentation, and iterative performance analysis.
+- Reduced Customer Acquisition Cost by 25% via A/B testing methodologies and systematic funnel optimization.
+- Developed GA4 dashboards to monitor campaign performance in real time, enabling faster data-driven budget reallocation.
+- Performed multi-channel marketing attribution analysis to improve budget allocation efficiency and inform growth strategy.
+
+---
+
+**Marketing Data Analyst** · Boost FinCorp Group
+`Jan 2021 – Aug 2023`
+- Contributed to a 40% increase in business revenue through data-driven campaign analysis, customer segmentation, and performance optimization.
+- Designed and maintained SQL, Power BI, and Tableau dashboards for executive reporting.
+- Improved campaign conversion rates by 12% by applying customer segmentation techniques to identify high-propensity audience groups.
+- Built automated dashboards that reduced ad hoc reporting turnaround time and enabled consistent commercial insights across teams.
+
+---
+
+**Account Manager – CRM & Growth** · InstaSquares
+`Jul 2017 – Dec 2019`
+- Achieved 95% client retention rate by leveraging CRM analytics and customer lifecycle optimization to identify at-risk accounts.
+- Increased lead conversion by 35% through pipeline analytics, identifying bottlenecks in the sales funnel.
+- Supported cross-functional collaboration between sales and operations to improve revenue reporting accuracy and forecasting visibility.
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Period |
-|---|---|---|
-| 🎓 M.Sc. International Management | IU International University of Applied Sciences, Berlin, Germany | 2023 – 2025 |
-| 🎓 Bachelor of Business Administration | Bangalore University, Bangalore, India | 2020 – 2023 |
+🎓 **Master of Science in International Management**
+IU International University of Applied Sciences, Berlin, Germany · `2023 – 2025`
+
+🎓 **Bachelor of Business Administration**
+Bangalore University, Bangalore, India · `2020 – 2023`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 retail-sales-sql-analysis
-> A portfolio SQL project analyzing retail sales data with **15+ queries** covering aggregations, joins, window functions, and CTEs — plus an Excel summary dashboard.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**What's inside:**
-- Advanced SQL query writing across multiple analytical patterns (aggregations, joins, window functions, CTEs)
-- Excel summary dashboard for business-friendly insight delivery
-- End-to-end analytical workflow from raw data to stakeholder output
+### 🛒 [retail-sales-sql-analysis](https://github.com/ullasvishwanath/retail-sales-sql-analysis)
 
-[![View Repo](https://img.shields.io/badge/View_Repo-retail--sales--sql--analysis-4479A1?style=flat-square&logo=github&logoColor=white)](https://github.com/ullasvishwanath/retail-sales-sql-analysis)
+A portfolio SQL project analyzing retail sales data with **15+ queries** covering aggregations, joins, window functions, and CTEs — plus an Excel summary dashboard.
+
+**Stack:** SQL · Excel
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [Job-Radar-](https://github.com/ullasvishwanath/Job-Radar-)
+
+A platform helping IT job seekers land jobs faster by consolidating job applications into a single, streamlined interface.
+
+**Stack:** TypeScript
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [gitboost-ai](https://github.com/ullasvishwanath/gitboost-ai)
+
+A TypeScript-based AI project — explore the repo to see the latest features and functionality.
+
+**Stack:** TypeScript
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ [ginnys-kitchen-website](https://github.com/ullasvishwanath/ginnys-kitchen-website)
+
+A Python-built website project — check the repository for implementation details.
+
+**Stack:** Python
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📡 Job-Radar-
-> A platform helping IT job seekers land a job faster by consolidating and applying to jobs from one place — built with TypeScript.
+## 📬 Let's Connect
 
-**What's inside:**
-- Centralised job application workflow for IT professionals
-- TypeScript-powered platform architecture
-- Designed to reduce friction in the job search process
+<div align="center">
 
-[![View Repo](https://img.shields.io/badge/View_Repo-Job--Radar--TypeScript-3178C6?style=flat-square&logo=github&logoColor=white)](https://github.com/ullasvishwanath/Job-Radar-)
+[![Email](https://img.shields.io/badge/Email-ullasvishwanathda%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ullasvishwanathda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ullasvishwanath)
+[![Location](https://img.shields.io/badge/Based_in-Berlin,_Germany-0d1117?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Berlin)
 
----
+*Open to Data Analyst roles in revenue analytics, growth, marketing intelligence, and business intelligence.*
 
-### 🤖 gitboost-ai
-> A TypeScript project exploring AI-assisted tooling.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-gitboost--ai-3178C6?style=flat-square&logo=github&logoColor=white)](https://github.com/ullasvishwanath/gitboost-ai)
-
----
-
-### 🍽️ ginnys-kitchen-website
-> A Python-built website project for a kitchen/restaurant brand.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-ginnys--kitchen--website-3776AB?style=flat-square&logo=github&logoColor=white)](https://github.com/ullasvishwanath/ginnys-kitchen-website)
-
----
-
-### 🍜 Food-inn-Restaurant
-> A restaurant-focused web project.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-Food--inn--Restaurant-24292E?style=flat-square&logo=github&logoColor=white)](https://github.com/ullasvishwanath/Food-inn-Restaurant)
+</div>
 
 ---
 
 <div align="center">
-
----
-
-*Open to Data Analyst, Revenue Analytics, and Growth Analytics roles — Berlin-based and open to international remote opportunities.*
-
-[![Email](https://img.shields.io/badge/Get_In_Touch-ullasvishwanathda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ullasvishwanathda@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ullasvishwanath)
-
+<sub>Built with 📊 data, ☕ coffee, and a commitment to turning numbers into decisions.</sub>
 </div>
